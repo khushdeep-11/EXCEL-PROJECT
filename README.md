@@ -1,1 +1,2 @@
 # EXCEL-PROJECT
+This project analyzes the sales data of the FNP (Ferns N Petals) company using Microsoft Excel. Pivot tables were used to study sales patterns based on different categories such as occasions, gift categories, months, and order hours. Charts were created to visualize trends, peak sales periods, and customer buying behavior. The analysis helps in understanding which occasions and time slots generate the highest sales and supports better business decision-making.
